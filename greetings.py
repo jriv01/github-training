@@ -4,5 +4,5 @@ greetings.py
 A simple python file that prints your name
 '''
 
-name = '[YOUR NAME]'
+name = "Semi"
 print('Hello! My name is', name)
